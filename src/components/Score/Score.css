@@ -1,26 +1,35 @@
- .gameScore {
-    text-align: center;
-    height: 70px;
-    position: relative;
-    line-height: 1em;
-    padding: 0;
-    margin: 0;
-  }
+
 
   h3.score {
-    margin-top: 5px;
+    /* margin-top: 5px; */
     padding: 0;
     font-weight: 600;
   }
   h3.status{
-    margin: 0;
+    /* margin: 0; */
     padding: 0;
-    color: red;
+    color: rgb(134, 134, 247);
   }
 
    .nav {
-    background-color: red;
+    background-color: rgb(134, 134, 247);
     width: 100%;
     position: fixed;
+    top: 0;
+    min-height: 70px;
+    margin-bottom: 20px;
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+    font-family: cursive;
+    
   
   } 
+
+  h2.navBar-begin {
+    margin-left: 25%;
+  }
+
+  h2.navBar-score {
+    margin-left: 18%;
+  
+  }

@@ -1,11 +1,11 @@
 
 .img-container{
-  margin-top: 20px;
+  /* margin-top: 20px; */
 }
 
 img {
-  height: 200px;
-  width: 200px;
+  height: 170px;
+  width: 170px;
   /* margin-top: 20px; */
   
   
@@ -13,6 +13,12 @@ img {
 img:hover {
   
   cursor: pointer;
+  /* border-radius: 4px; */
+  border: 5px solid #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+    background-position: 50%;
+    
  
 }
 
@@ -20,10 +26,11 @@ img:hover {
 .card {
   margin-left: 20px;
   margin-right: 20px;
+  margin-bottom: 10px;
 }
 
 .row {
   max-width: 1000px;
-  margin-left: 18%;
+  margin-left: 20%;
   padding-top: 60px;
 }
