@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tatty/static/css/main.2d53ecb5.chunk.css",
+    "main.js": "/tatty/static/js/main.934d6fbc.chunk.js",
+    "main.js.map": "/tatty/static/js/main.934d6fbc.chunk.js.map",
+    "runtime-main.js": "/tatty/static/js/runtime-main.f4368d07.js",
+    "runtime-main.js.map": "/tatty/static/js/runtime-main.f4368d07.js.map",
+    "static/js/2.fa3e7651.chunk.js": "/tatty/static/js/2.fa3e7651.chunk.js",
+    "static/js/2.fa3e7651.chunk.js.map": "/tatty/static/js/2.fa3e7651.chunk.js.map",
+    "index.html": "/tatty/index.html",
+    "precache-manifest.4c1c9062258b20b9f73f9f03274bd806.js": "/tatty/precache-manifest.4c1c9062258b20b9f73f9f03274bd806.js",
+    "service-worker.js": "/tatty/service-worker.js",
+    "static/css/main.2d53ecb5.chunk.css.map": "/tatty/static/css/main.2d53ecb5.chunk.css.map",
+    "static/js/2.fa3e7651.chunk.js.LICENSE.txt": "/tatty/static/js/2.fa3e7651.chunk.js.LICENSE.txt",
+    "static/media/Headline.css": "/tatty/static/media/Overwatch.df737b85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4368d07.js",
+    "static/js/2.fa3e7651.chunk.js",
+    "static/css/main.2d53ecb5.chunk.css",
+    "static/js/main.934d6fbc.chunk.js"
+  ]
+}
